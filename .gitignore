@@ -1,0 +1,22 @@
+#Compiled binary addons
+build/Release
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+#bower components
+/src/app/styles/dependencies
+
+/src/app/index.min.js
+/src/app/index.min.js.map
+
+.idea
+
+**.log
