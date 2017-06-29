@@ -1,0 +1,13 @@
+{
+	"author":"Vaibhav Swarnkar <vaibhavconnected@gmail.com>",
+	"name":"frontend-app",
+	"version":"0.1.1",
+	"from":"node:4-onbuild",
+	"build":{
+		"env":{},
+		"cmd":[],
+		"nucleusPort":80,
+		"port":80,
+		"start":"npm run server"
+	}
+}
