@@ -5,7 +5,9 @@
 	"from":"node:4",
 	"build":{
 		"env":{},
-		"cmd":[],
+		"cmd":[
+			"npm install"
+		],
 		"nucleusPort":80,
 		"port":80,
 		"start":"npm run server"
