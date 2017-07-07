@@ -9,6 +9,6 @@ app.get('/', function (request, response) {
     response.sendFile('./index.html');
 });
 
-app.listen(9000, function () {
-  console.log('Example app listening on port 9000!')
+app.listen(80, function () {
+  console.log('Example app listening on port 80!')
 })
