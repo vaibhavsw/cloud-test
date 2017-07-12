@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 })
 
 app.get('/loaderio-9ee702e98ed483284f79947eaa5afae2', function (request, response) {
-    response.sendFile('./loaderio-9ee702e98ed483284f79947eaa5afae2');
+    response.sendFile('loaderio-9ee702e98ed483284f79947eaa5afae2.text');
 });
 
 app.listen(80, function () {
