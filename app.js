@@ -7,7 +7,8 @@ app.get('/loaderio-9ee702e98ed483284f79947eaa5afae2/', function (request, respon
 
 app.get('/', function (request, response) {
     response.sendFile('index.html',{root:__dirname});
-});
+})
+
 
 app.listen(80, function () {
   console.log('Example app listening on port 80!')
