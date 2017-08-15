@@ -1,7 +1,7 @@
 {
 	"author":"Vaibhav Swarnkar <vaibhavconnected@gmail.com>",
 	"name":"frontend-app",
-	"version":"1.1",
+	"version":"1.2",
 	"from":"node:4",
 	"build":{
 		"env":{},
