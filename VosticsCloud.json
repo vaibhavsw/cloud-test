@@ -1,5 +1,5 @@
 {
-	"projectKey":"123123",
+	"projectKey":"vostics-cloud-a470",
 	"author":"Vaibhav Swarnkar <vaibhavconnected@gmail.com>",
 	"name":"frontend-app",
 	"version":"1.1",
@@ -9,7 +9,6 @@
 		"cmd":[
 			"npm install"
 		],
-		"nucleusPort":80,
 		"port":80,
 		"start":"npm run server"
 	}
