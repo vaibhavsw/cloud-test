@@ -10,4 +10,4 @@ WORKDIR ./gitdir/
 
 RUN npm install
 
-RUN npm run server
+ENTRYPOINT npm run server
