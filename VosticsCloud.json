@@ -3,7 +3,7 @@
 	"author":"Vaibhav Swarnkar <vaibhavconnected@gmail.com>",
 	"tag":"test",
 	"version":"1.1",
-	"from":"Dockerfile",
+	"from":"node",
 	"app":{
 		"env":{},
 		"cmd":[
