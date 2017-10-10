@@ -7,8 +7,7 @@
 	"app":{
 		"env":{},
 		"cmd":[
-			"echo $MAINTAINER",
-			"echo $REPO_DOWNLOAD_COMMAND",
+			"ls -la",
 			"npm install"
 		],
 		"port":80,
