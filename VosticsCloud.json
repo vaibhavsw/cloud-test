@@ -2,7 +2,7 @@
 	"projectKey":"vostics-cloud-a470",
 	"author":"Vaibhav Swarnkar <vaibhavconnected@gmail.com>",
 	"tag":"test",
-	"version":"1.7",
+	"version":"1.8",
 	"from":"node",
 	"app":{
 		"env":{},
